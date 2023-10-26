@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surya
-- 👀 I’m interested in competetive programming,
+- 👀 I’m interested in competitive programming,
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
