@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya
 - 👀 I’m interested in competitive programming,
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning problem solving
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
