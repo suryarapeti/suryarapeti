@@ -64,7 +64,7 @@ I'm a third-year B.Tech student at **RGUKT Srikakulam** with a passion for solvi
 - 📧 Email: [surya286760@gmail.com](mailto:surya286760@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/surya-rapeti](https://linkedin.com/in/surya-rapeti)  
 - 🌍 Location: Andhra Pradesh, India  
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryarapeti&label=Profile%20views&color=38e8ff&style=plastic" alt="surya"/> </p>
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, fork interesting ones, and reach out if you'd like to collaborate on AI/ML projects!
