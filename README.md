@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Undergraduate** | 🤖 **Machine Learning Enthusiast** | 🧠 **AI Researcher in the Making**
 
-I'm a third-year B.Tech student at **RGUKT Srikakulam** with a passion for solving real-world problems using **AI and Machine Learning**. From building smart agricultural assistants to creating sentiment analysis tools, I'm all about crafting intelligent solutions that make an impact.
+I'm a final-year B.Tech student at **RGUKT Srikakulam** with a passion for solving real-world problems using **AI and Machine Learning**. From building smart agricultural assistants to creating sentiment analysis tools, I'm all about crafting intelligent solutions that make an impact.
 
 ---
 
